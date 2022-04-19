@@ -11,7 +11,7 @@ function warOfNumbers(N){
         }
     }
     if (x>y) {
-        console.log("Even is the winner");
+        console.log("Even   is the winner");
     }
     else {
         console.log("Odd is the winner");
